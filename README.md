@@ -1,0 +1,2 @@
+# Caravan-Insurance-Policy-Buyers
+The data is taken from Kaggle’s 2000 challenge. The dataset is owned and supplied by Dutch data mining company Sentiment Machine Research and is a real world business problem. The problem statement is to classify customers as potential buyers of the Caravan Insurance Policy based on historical data of existing buyers. The dataset comprises customer’s socio-demographic, product ownership and insurance statistics data.
