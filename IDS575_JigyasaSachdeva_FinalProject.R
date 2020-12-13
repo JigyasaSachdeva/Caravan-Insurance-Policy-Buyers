@@ -2,6 +2,7 @@
 ### UIN- 664791188
 ### IDS 575- Final Project
 
+
 #Reading data
 caravan <- read.csv("~/Desktop/Third Sem/Statistics for Machine Learning/FinalProject/caravan-insurance-challenge.csv")
 #Viewing data
